@@ -1,0 +1,12 @@
+com\walter\wonderlabzassesment\WonderlabzAssesmentApplication.class
+com\walter\wonderlabzassesment\model\AccountRequest.class
+com\walter\wonderlabzassesment\model\transfer.class
+com\walter\wonderlabzassesment\services\BankService.class
+com\walter\wonderlabzassesment\model\DepositWithdraw.class
+com\walter\wonderlabzassesment\model\AccountResponse.class
+com\walter\wonderlabzassesment\model\Transaction.class
+com\walter\wonderlabzassesment\rest\BankController.class
+com\walter\wonderlabzassesment\repository\AccountSearchRepository.class
+com\walter\wonderlabzassesment\repository\TransactionRepository.class
+com\walter\wonderlabzassesment\model\BankAccount.class
+com\walter\wonderlabzassesment\repository\BankRepository.class
